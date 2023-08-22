@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+}
+h1{
+    font-size: 4rem;
+}
+
+
+
+.box{
+    width: 1100px;
+    height: auto;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+
+}
+/* .count{
+    border: 1px solid black;
+}
+.sta1{
+    border: 1px solid black;
+} */
